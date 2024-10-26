@@ -1,3 +1,7 @@
+# Versión Personal
+
+Esta es una versión personal con algunos cambios sobre la plantilla original del [respositorio de Blazaid](https://github.com/blazaid/UPM-Report-Template).
+
 # Plantilla para Memoria de TFGs y TFMs de la Universidad Politécnica de Madrid
 
 Este repositorio contiene una plantilla no oficial para el desarrollo de la memoria
