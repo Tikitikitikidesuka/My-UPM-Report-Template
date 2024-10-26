@@ -1,6 +1,6 @@
 # Versión Personal
 
-Esta es una versión personal con algunos cambios sobre la plantilla original del [respositorio de Blazaid](https://github.com/blazaid/UPM-Report-Template).
+Esta es una versión personal con algunos cambios sobre la plantilla original del [respositorio de blazaid](https://github.com/blazaid/UPM-Report-Template).
 
 # Plantilla para Memoria de TFGs y TFMs de la Universidad Politécnica de Madrid
 
