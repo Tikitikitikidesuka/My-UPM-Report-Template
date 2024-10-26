@@ -288,29 +288,28 @@
 \RequirePackage{microtype} % Mejoras tipográficas generales
 % TODO Cambiar los tipos de letra según la guía de estilos de la escuela
 \setmainfont[
-    Path=upm-report/fonts/Lora/,
+    Path=upm-report/fonts/Montserrat/,
     Extension=.ttf,
     UprightFont=*-Regular,
     BoldFont=*-SemiBold,
     ItalicFont=*-Italic,
     BoldItalicFont=*-SemiBoldItalic,
-]{Lora}
+]{Montserrat}
 
 \setsansfont[
-    Path=upm-report/fonts/Helvetica/,
-    Extension=.otf,
-    UprightFont=*-Roman,
-    BoldFont=*-Medium,
-    ItalicFont=*-LightItalic,
-    BoldItalicFont=*-MediumItalic,
-]{HelveticaNeue}
+    Path=upm-report/fonts/Barlow Condensed/,
+    Extension=.ttf,
+    UprightFont=*-Medium,
+    BoldFont=*-Bold,
+    ItalicFont=*-MediumItalic,
+    BoldItalicFont=*-BoldItalic,
+]{BarlowCondensed}
 
 \setmonofont[
     Path=upm-report/fonts/Fira Code/,
     Extension=.ttf,
     UprightFont=*-regular,
     BoldFont=*-bold,
-    Scale=0.87,
 ]{firacode}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
